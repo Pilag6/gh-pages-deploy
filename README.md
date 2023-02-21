@@ -23,7 +23,7 @@
   npm run dev 
 ```
 
-- Cancel local-host with ctrl + c
+- Cancel local-host with `ctrl+c`
 
 ```bash
   git init
